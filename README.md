@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* Heroku: https://fierce-chamber-30992.herokuapp.com/
+
 * ...
